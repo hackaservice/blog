@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: Hack-a-service
+subtitle: Dual core organization who makes awesome Software and nice tech articles
+description: by github/daplay and github/miguelantonio 
+author: Hackaservice
+language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://hackaservice.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
