@@ -24,3 +24,9 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
+
+language:
+- es
+- en
+
+i18n_dir: :lang

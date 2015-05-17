@@ -1,6 +1,7 @@
 title: Hello World
-categories :
-- github
+date: 2015-05-10 01:03:24
+tags:
+- Github
 ---
 Welcome to our tech blog! We are eager to write about new technologies and awesome ways to make software.
 
